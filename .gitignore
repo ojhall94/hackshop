@@ -23,6 +23,8 @@ __pycache__
 *.bak
 .ipynb_checkpoints
 .tox
+*.fits
+*.pkl
 .DS_Store
 \#*#
 .#*
